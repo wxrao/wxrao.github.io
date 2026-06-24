@@ -14,7 +14,7 @@ I am looking for motivated **Ph.D. and Master's students** interested in mobile 
 - **Mobile and Edge Computing** — Distributed data systems and intelligent services on mobile networks.
 
 ## News
-- **[2026]** Papers accepted at KDD 2026 AI4Science: "LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs". 
+- **[2026]** Papers accepted at KDD 2026 AI4Science: *LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs*. 
 - **[2025]** Papers accepted at IEEE TMC: *Cooperative Path Planning with Asynchronous Multiagent Reinforcement Learning* and *Learning to Optimize State Estimation in Multi-Agent RL-Based Collaborative Detection*.
 - **[2025]** Two papers accepted at ACM CIKM 2025: *Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop QA* and *SimFormer: Multilevel Transformer on Learnable Mesh Graphs*.
 - **[2019]** Paper *DeepLoc: Deep Neural Network-based Telco Outdoor Location Recovery* received the **Best Paper Award** at MobiQuitous 2019.
