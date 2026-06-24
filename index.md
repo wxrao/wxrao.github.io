@@ -34,6 +34,10 @@ I am looking for motivated **Ph.D. and Master's students** interested in mobile 
   Jiaming Yin, **Weixiong Rao**, Qinpei Zhao, Chenxi Zhang, Pan Hui  
   *IEEE Transactions on Mobile Computing*, 2024
 
+- **Learning to Optimize State Estimation in Multi-Agent Reinforcement Learning-Based Collaborative Detection**  
+  	Tianlong Zhou, Tianyi Shi, Hongye Gao, **Weixiong Rao** 
+  *IEEE Transactions on Big Data*, 2024
+  
 - **Multivariate Time-Series Forecasting Model: Predictability Analysis and Empirical Study**  
   Qinpei Zhao, Guangda Yang, Kai Zhao, Jiaming Yin, **Weixiong Rao**, Lei Chen  
   *IEEE Transactions on Big Data*, 2023
