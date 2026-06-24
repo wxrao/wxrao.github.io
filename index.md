@@ -48,5 +48,3 @@ I am looking for motivated **Ph.D. and Master's students** interested in mobile 
   *IEEE Transactions on Mobile Computing*, 2022
 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=7ubWTOMAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/79/5179) profiles for the full publication list.
-
-{% include_relative _includes/services.md %}
