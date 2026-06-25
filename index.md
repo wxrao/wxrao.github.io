@@ -24,11 +24,11 @@ I am looking for motivated **Ph.D. and Master's students** interested in mobile 
 
 - **Cooperative Path Planning with Asynchronous Multiagent Reinforcement Learning**  
   Jiaming Yin, **Weixiong Rao**, Yu Xiao, Keshuang Tang  
-  *IEEE Transactions on Mobile Computing*, 2025 [Source Code](https://github.com/tongjimobiml/asynMARL)
+  *IEEE Transactions on Mobile Computing*, 2025 [PDF](https://ieeexplore.ieee.org/document/10833653/) [Source Code](https://github.com/tongjimobiml/asynMARL)
 
 - **SimFormer: Multilevel Transformer on Learnable Mesh Graphs for Engineering Simulation**  
   Jiasheng Shi, Fu Lin, **Weixiong Rao**, Ze Gao  
-  *ACM CIKM*, 2025 [Source Code](https://github.com/tongjimobiml/SimFormer)
+  *ACM CIKM*, 2025 [PDF](https://dl.acm.org/doi/10.1145/3746252.3761160) [Source Code](https://github.com/tongjimobiml/SimFormer)
 
 - **Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering**  
   Shijie Luo, Xinyuan Lu, Qinpei Zhao, **Weixiong Rao**  
@@ -36,7 +36,7 @@ I am looking for motivated **Ph.D. and Master's students** interested in mobile 
 
 - **Learn to Optimize the Constrained Shortest Path on Large Dynamic Graphs**  
   Jiaming Yin, **Weixiong Rao**, Qinpei Zhao, Chenxi Zhang, Pan Hui  
-  *IEEE Transactions on Mobile Computing*, 2024 [Source Code](https://github.com/tongjimobiml/CSP-GS)
+  *IEEE Transactions on Mobile Computing*, 2024 [PDF](https://ieeexplore.ieee.org/document/10076920/) [Source Code](https://github.com/tongjimobiml/CSP-GS)
 
 - **Learning to Optimize State Estimation in Multi-Agent Reinforcement Learning-Based Collaborative Detection**  
   	Tianlong Zhou, Tianyi Shi, Hongye Gao, **Weixiong Rao** 
