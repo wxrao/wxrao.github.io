@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Full Professor at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn/info/1061/2735.htm). I received my Ph.D. in Computer Science and Engineering from [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/) in 2009, advised by Prof. Ada Fu. Prior to joining Tongji University in 2014, I was a postdoctoral researcher at the [Department of Computer Science, University of Helsinki](https://www.cs.helsinki.fi/) (2011–2012) and the [Computer Laboratory, University of Cambridge](https://www.cl.cam.ac.uk/) (2013). I also held visiting positions at The Hong Kong University of Science and Technology (2010, 2015) and The Chinese University of Hong Kong (2014).
 
-I am looking for motivated **Ph.D. and Master students** interested in spatio-temporal data science and scalable machine learning. Please feel free to reach out via email (wxrao at tongji.edu.cn).
+I am looking for motivated **Ph.D. and Master students** interested in spatio-temporal data science, scalable machine learning and mobile computing. Please feel free to reach out via email (wxrao at tongji.edu.cn).
 
 ## Research Interests
 - **AI for Simulation** — AI models, e.g., Mesh Graph Networks, for Numerical Engnieering Simulation.
