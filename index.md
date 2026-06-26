@@ -9,7 +9,7 @@ I am a Full Professor at the [School of Computer Science and Technology, Tongji 
 I am looking for motivated **Ph.D. and Master students** interested in spatio-temporal data science, scalable machine learning and mobile computing. Please feel free to reach out via email (wxrao at tongji.edu.cn).
 
 ## Research Interests
-- **AI for Simulation** — AI models, e.g., Mesh Graph Networks, for Numerical Engnieering Simulation.
+- **Physical AI Simulation** — AI models, e.g., Mesh Graph Networks, for Numerical Engnieering Simulation.
 - **Reinforcement Learning** — Multi-agent reinforcement learning for route planning, collaborative detection, and optimization.
 - **Mobile and Edge Computing** — Distributed data systems and intelligent services on mobile networks.
 
