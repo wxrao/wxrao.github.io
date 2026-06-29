@@ -11,7 +11,7 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 ## Research Interests
 - **Physical AI Simulation** — AI models, e.g., Mesh Graph Networks, for Physical Simulation.
 - **Reinforcement Learning** — Multi-agent reinforcement learning for route planning, collaborative detection, and optimization.
-- **Mobile and Edge Computing** — Distributed data systems and intelligent services on mobile networks.
+- **Mobile and Distributed Computing** — Distributed data systems and intelligent services on mobile networks.
 
 ## News
 - **[2026]** Paper accepted at KDD 2026 AI4Science: *LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs*. 
