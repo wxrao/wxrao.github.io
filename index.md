@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Full Professor at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn/info/1061/2735.htm). I received my Ph.D. in Computer Science and Engineering from [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/) in 2009. Prior to joining Tongji University in 2014, I was a postdoctoral researcher at the [Department of Computer Science, University of Helsinki](https://www.cs.helsinki.fi/) (2011–2012) and the [Computer Laboratory, University of Cambridge](https://www.cl.cam.ac.uk/) (2013). 
+I am a Full Professor at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn). I received my Ph.D. in Computer Science and Engineering from [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/) in 2009. Prior to joining Tongji University in 2014, I was a postdoctoral researcher at the [Department of Computer Science, University of Helsinki](https://www.cs.helsinki.fi/) (2011–2012) and the [Computer Laboratory, University of Cambridge](https://www.cl.cam.ac.uk/) (2013). 
 
 I am looking for motivated **Ph.D. and Master students** interested in spatio-temporal data science, scalable machine learning and mobile computing. Please feel free to reach out via email (wxrao at tongji.edu.cn).
 
