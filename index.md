@@ -35,8 +35,8 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 
 - **Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering**  
   Shijie Luo, Xinyuan Lu, Qinpei Zhao, **Weixiong Rao**  
-  *ACM CIKM*, 2025
-
+  *ACM CIKM*, 2025 [PDF](https://dl.acm.org/doi/10.1145/3746252.3760973) [Source Code](https://github.com/tongjimobiml/BrikQA)
+  
 - **Learn to Optimize the Constrained Shortest Path on Large Dynamic Graphs**  
   Jiaming Yin, **Weixiong Rao**, Qinpei Zhao, Chenxi Zhang, Pan Hui  
   *IEEE Transactions on Mobile Computing*, 2024 [PDF](https://ieeexplore.ieee.org/document/10076920/) [Source Code](https://github.com/tongjimobiml/CSP-GS)
