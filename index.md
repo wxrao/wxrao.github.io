@@ -21,6 +21,9 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 - **[2017]** Paper *Topic Model-Based Road Network Inference from Massive Trajectories* received the **Best Paper Award** at IEEE MDM 2017.
 
 ## Selected Publications
+- **Combining Structural and Textual Knowledge for Knowledge Graph Link Prediction via Large Language Models**  
+  Shijie Luo, Xinyuan Lu, Qinpei Zhao, **Weixiong Rao**  
+  *ACM WSDM 2026*, [PDF](https://dl.acm.org/doi/10.1145/3773966.3777934) [Source Code](https://github.com/tongjimobiml/ST-KGLP)
 
 - **Cooperative Path Planning with Asynchronous Multiagent Reinforcement Learning**  
   Jiaming Yin, **Weixiong Rao**, Yu Xiao, Keshuang Tang  
