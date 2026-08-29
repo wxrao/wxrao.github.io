@@ -6,12 +6,11 @@ layout: homepage
 
 I am a Full Professor at the [School of Computer Science and Technology, Tongji University](https://cs.tongji.edu.cn). I received my Ph.D. in Computer Science and Engineering from [The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/) in 2009. Prior to joining Tongji University in 2014, I was a postdoctoral researcher at the [Department of Computer Science, University of Helsinki](https://www.cs.helsinki.fi/) (2011–2012) and the [Computer Laboratory, University of Cambridge](https://www.cl.cam.ac.uk/) (2013). 
 
-I am looking for motivated **Ph.D. and Master students** interested in spatio-temporal data science, scalable machine learning and mobile computing. Please feel free to reach out via email (wxrao at tongji.edu.cn).
+I am looking for motivated **Ph.D. and Master students** interested in spatio-temporal data science, and reinforcement learning. Please feel free to reach out via email (wxrao at tongji.edu.cn).
 
 ## Research Interests
 - **Physical AI Simulation** — AI models, e.g., Mesh Graph Networks, for Physical Simulation.
 - **Reinforcement Learning** — Multi-agent reinforcement learning for route planning, state estimation, and LLM post-training.
-- **Mobile and Distributed Computing** — Distributed data systems and intelligent services on mobile networks.
 
 ## News
 - **[2026]** Paper accepted at EMNLP 2026 Main Conference: *ProcessLight: Process Supervision for Large Language Model based Traffic Signal Control*. 
