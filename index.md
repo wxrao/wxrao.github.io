@@ -15,12 +15,14 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 
 ## News
 - **[2026]** Paper accepted at EMNLP 2026 Main Conference: *ProcessLight: Process Supervision for Large Language Model based Traffic Signal Control*. 
-- **[2026]** Paper accepted at KDD 2026 AI4Science: *LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs*. 
-- **[2025]** Paper published at IEEE TMC: *Cooperative Path Planning with Asynchronous Multiagent Reinforcement Learning* and *Learning to Optimize State Estimation in Multi-Agent RL-Based Collaborative Detection*.
 - **[2019]** Paper *DeepLoc: Deep Neural Network-based Telco Outdoor Location Recovery* received the **Best Paper Award** at MobiQuitous 2019.
 - **[2017]** Paper *Topic Model-Based Road Network Inference from Massive Trajectories* received the **Best Paper Award** at IEEE MDM 2017.
 
 ## Selected Publications
+- **LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs**  
+  Jiasheng Shi,  **Weixiong Rao**  
+  *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2 (KDD 2026)*, [PDF](https://dl.acm.org/doi/abs/10.1145/3770855.38) [Source Code](comming soon)
+  
 - **Combining Structural and Textual Knowledge for Knowledge Graph Link Prediction via Large Language Models**  
   Shijie Luo, Xinyuan Lu, Qinpei Zhao, **Weixiong Rao**  
   *ACM WSDM 2026*, [PDF](https://dl.acm.org/doi/10.1145/3773966.3777934) [Source Code](https://github.com/tongjimobiml/ST-KGLP)
