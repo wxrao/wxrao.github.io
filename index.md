@@ -21,7 +21,7 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 ## Selected Publications
 - **LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs**  
   Jiasheng Shi,  **Weixiong Rao**  
-  *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2 (KDD 2026)*, [PDF](https://dl.acm.org/doi/abs/10.1145/3770855.38) [Source Code](comming soon)
+  *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2 (KDD 2026)*, [PDF](https://dl.acm.org/doi/abs/10.1145/3770855.38) 
   
 - **Combining Structural and Textual Knowledge for Knowledge Graph Link Prediction via Large Language Models**  
   Shijie Luo, Xinyuan Lu, Qinpei Zhao, **Weixiong Rao**  
