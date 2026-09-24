@@ -14,7 +14,7 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 - **Mobile and Distributed Computing** — Distributed data systems and intelligent services on mobile networks.
 
 ## News
-- **[2026]** Paper accepted at EMNLP 2026 Main Conference: *ProcessLight: Process Supervision for Large Language Model based Traffic Signal Control*. 
+- **[2026]** Paper accepted at EMNLP 2026 Main Conference: *ProcessLight: Process Supervision for Large Language Model based Traffic Signal Control* [PDF](https://arxiv.org/abs/2609.22746) .  
 - **[2019]** Paper *DeepLoc: Deep Neural Network-based Telco Outdoor Location Recovery* received the **Best Paper Award** at MobiQuitous 2019.
 - **[2017]** Paper *Topic Model-Based Road Network Inference from Massive Trajectories* received the **Best Paper Award** at IEEE MDM 2017.
 
