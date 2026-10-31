@@ -15,11 +15,14 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 
 ## News
 - **[2026]** Paper accepted at IEEE Transactions on Parallel and Distributed Systems (TPDS): *E-MGN: Scalable Edge-centric Mesh Graph Network for Engineering Simulation* .
-- **[2026]** Paper accepted at EMNLP 2026 Main Conference: *ProcessLight: Process Supervision for Large Language Model based Traffic Signal Control* [PDF](https://arxiv.org/abs/2609.22746) .  
 - **[2019]** Paper *DeepLoc: Deep Neural Network-based Telco Outdoor Location Recovery* received the **Best Paper Award** at MobiQuitous 2019.
 - **[2017]** Paper *Topic Model-Based Road Network Inference from Massive Trajectories* received the **Best Paper Award** at IEEE MDM 2017.
 
 ## Selected Publications
+- **ProcessLight: Process Supervision for Large Language Model based Traffic Signal Control**  
+  huaitao Zhao, TianlongZhou, Weijie Wang, Shi Jiasheng and **Weixiong Rao**  
+  *The 2026 Conference on Empirical Methods in Natural Language Processing October 24 –29 Budapest, Hungary ([EMNLP'2026](https://2026.emnlp.org/))*, [PDF](https://arxiv.org/abs/2609.22746)
+  
 - **LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs**  
   Jiasheng Shi,  **Weixiong Rao**  
   *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2 (KDD 2026)*, [PDF](https://dl.acm.org/doi/epdf/10.1145/3770855.3818838) 
