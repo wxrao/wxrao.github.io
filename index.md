@@ -21,7 +21,7 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 ## Selected Publications
 - **ProcessLight: Process Supervision for Large Language Model based Traffic Signal Control**  
   huaitao Zhao, TianlongZhou, Weijie Wang, Shi Jiasheng and **Weixiong Rao**  
-  *The 2026 Conference on Empirical Methods in Natural Language Processing October 24 –29 Budapest, Hungary ([EMNLP'2026](https://2026.emnlp.org/))*, [PDF](https://arxiv.org/abs/2609.22746)
+  *The 2026 Conference on Empirical Methods in Natural Language Processing October 24 –29 Budapest, Hungary ([EMNLP'2026](https://2026.emnlp.org/))*, [PDF](https://aclanthology.org/2026.emnlp-main.1966/)
   
 - **LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs**  
   Jiasheng Shi,  **Weixiong Rao**  
