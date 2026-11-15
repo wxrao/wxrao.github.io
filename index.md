@@ -14,7 +14,7 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 - **Mobile and Distributed Computing** — Distributed data systems and intelligent services on mobile networks.
 
 ## News
-- **[2026]** Paper accepted at IEEE Transactions on Parallel and Distributed Systems (TPDS): *E-MGN: Scalable Edge-centric Mesh Graph Network for Engineering Simulation* .
+- **[2026]** Paper accepted at IEEE Transactions on Parallel and Distributed Systems (TPDS): *E-MGN: Scalable Edge-centric Mesh Graph Network for Engineering Simulation* . [PDF]([500939](https://ieeexplore.ieee.org/abstract/document/11746138))
 - **[2019]** Paper *DeepLoc: Deep Neural Network-based Telco Outdoor Location Recovery* received the **Best Paper Award** at MobiQuitous 2019.
 - **[2017]** Paper *Topic Model-Based Road Network Inference from Massive Trajectories* received the **Best Paper Award** at IEEE MDM 2017.
 
